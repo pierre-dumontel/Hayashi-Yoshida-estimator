@@ -1,6 +1,6 @@
 # High frequency brownians and Hayashi-Yoshida estimator
 
-# Author 
+# Authors
 Dumontel Pierre & Rouet William
 Master's Degree Finance Quantitative & Insurance \ 
 Aix-Marseille School of Economics
