@@ -2,7 +2,7 @@
 
 # Author 
 Dumontel Pierre & Rouet William
-Master's Degree Finance Quantitative & Insurance, Aix-Marseille School of Economics
+Master's Degree Finance Quantitative & Insurance \ Aix-Marseille School of Economics
 
 # Syllabus
 
